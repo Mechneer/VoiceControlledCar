@@ -1,2 +1,2 @@
 # VoiceControlledCar
-With Python
+ With python and arduino
